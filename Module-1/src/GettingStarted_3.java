@@ -5,5 +5,6 @@ public class GettingStarted_3 {
         int c = (a * 1.0) / b; //2
 
         System.out. println(c); //3
+
     }
 }
