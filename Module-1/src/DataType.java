@@ -1,5 +1,5 @@
 public class DataType {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
 //        Non-Numeric
         char c = 'c';
